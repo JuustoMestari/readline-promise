@@ -1,5 +1,6 @@
 # readline-promise
 ## Test case for readline
+- download dependencies : yarn
 - Build : yarn build
 - Run: yarn start
 
